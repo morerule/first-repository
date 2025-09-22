@@ -6,7 +6,7 @@
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-    - <img width="1271" height="678" alt="image" src="https://github.com/user-attachments/assets/65faff62-784b-40c7-9adf-5b904d6b93d5" />
+    - image
     - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -16,7 +16,7 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-    <img width="1194" height="161" alt="image" src="https://github.com/user-attachments/assets/53fbdd7e-cf3c-486f-afd1-84cb66032e20" />
+    image
     - zip 메서드와 enumerate 메서드 이해가 어려웠습니다.
 
         
@@ -26,7 +26,7 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-    - <img width="1763" height="882" alt="image" src="https://github.com/user-attachments/assets/d74d4261-d121-4dac-84ca-59da8596ce49" />
+    - image
     - 3번째 answer 변수 생성시 random 함수의 sample 메서드 오타 수정 필요합니다.
         
 - [O]  **4. 회고를 잘 작성했나요?**
